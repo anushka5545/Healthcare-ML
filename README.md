@@ -1,6 +1,11 @@
 # 🩺 Healthcare Machine Learning – Diabetes Prediction System
 
 A machine learning project that demonstrates diabetes classification using a Random Forest Classifier and an interactive Streamlit web application.
+## 🚀 Live Demo
+
+**Try the Healthcare ML Diabetes Prediction Application:**
+
+https://healthcare-ml-amfrbujtp9auk3seauqicl.streamlit.app/
 
 ## 📌 Project Overview
 
